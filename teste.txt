@@ -1,2 +1,3 @@
-Teste de EdiçãoGão!
+Teste de EdiÃ§Ã£ozÃ£oÃ£o!
 Um teste para Pull request
+
